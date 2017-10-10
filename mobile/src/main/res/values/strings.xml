@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ePlug</string>
+    <string name="app_motto">World No. 1 App for eCars</string>
+
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <string name="distance_start">Distance of</string>
+    <string name="distance_end">km</string>
+
+    <string name="non_free_plug">Paid charging station</string>
+
+    <string name="nav_map">Map</string>
+    <string name="nav_list">List</string>
+    <string name="nav_contribute">Contribute</string>
+    <string name="nav_add">Add plug</string>
+
+    <string name="new_plug">New plug</string>
+    <string name="new_plug_description">Tap to add</string>
+
+    <string name="dialog_add_title">New plug</string>
+    <string name="dialog_add_editName">Title</string>
+    <string name="dialog_add_editDescription">Description</string>
+    <string name="dialog_add_editUrl">URL image (optional)</string>
+    <string name="dialog_add_editIsFree">Free charging station</string>
+    <string name="dialog_add_buttonCancel">Cancel</string>
+    <string name="dialog_add_buttonAdd">Add</string>
+    <string name="dialog_add_errorSize">Tittle too big</string>
+    <string name="dialog_add_noName">Enter the title</string>
+    <string name="dialog_add_noMsg">Enter a description</string>
+
+    <string name="plug_added_ok">Plug added</string>
+
+    <string-array name="nav_item_activity_titles">
+        <item>ePlug Map</item>
+        <item>Plugs sorted by distance</item>
+        <item>Long tap on map to add</item>
+    </string-array>
+</resources>
